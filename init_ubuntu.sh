@@ -18,7 +18,7 @@ sudo apt-get install libc6-dev-i386 g++-multilib
 svn co http://src.chromium.org/svn/trunk/tools/depot_tools
 
 # other packages
-sudo apt-get install default-jre
+sudo apt-get install default-jre default-jdk
 sudo apt-get search git subversion
 sudo apt-get install git-svn
 sudo apt-get install openssh-server
